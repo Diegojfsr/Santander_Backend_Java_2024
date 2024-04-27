@@ -13,3 +13,26 @@ Trilha de Back-end Java do Santander Bootcamp 2024.<br>
 7. <a href="https://"> Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades. </a>
 
 
+## ⚠️ Especificação e requisitos
+
+- Git e Github
+- Java
+- POO com Java
+- Ides Java
+
+- Maven
+- Junit
+- Mockito
+
+- SQL
+- MongoDB
+
+- Api Rest
+
+- Spring Boot
+- Spring Web e Swagger
+- Spring Security
+
+
+
+
