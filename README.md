@@ -2,11 +2,9 @@
 Trilha de Back-end Java do Santander Bootcamp 2024.<br>
 
 
-### 📝 Confira a grade completa:
+## 📝 Confira a grade completa:
 
 1. <a href="https://"> Princípios de Desenvolvimento de Software Colaborativo. </a>
-
-
 2. <a href="https://"> Dominando a Linguagem de Programação Java. </a>
 3. <a href="https://"> Programação Orientada a Objetos com Java. </a>
 4. <a href="https://"> Testes e Gerenciamento de Dependências em Projetos Java. </a>
