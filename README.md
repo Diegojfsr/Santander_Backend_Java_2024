@@ -16,6 +16,21 @@ O programa Santander Bootcamp 2024 tem como foco principal formar profissionais 
   <li>  <a href="https://"> Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades. </a></li>
 </ul>
 
+
+### 📝 Lista de Atividades
+Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
+As atividades estão separadas por Módulos.
+<ul dir="auto">
+  <li>📝 Atividade I.<a href="https://"> Acessar </a></li>
+</ul>
+
+
+### 🚩 Lista de Projetos
+Esta área é reservada para os projetos desenvolvidos por mim no dia a dia, durante toda a jornada.
+<ul dir="auto">
+  <li> 🚩 Projeto I.<a href="https://"> Acessar </a></li>
+</ul>
+
 ### 🛠 Tecnologias Utilizadas
 Essas são algumas das tecnologias utilizadas durante o programa Santander Bootcamp 2024.  
 [Git e Github](https:)  |
@@ -32,19 +47,7 @@ Essas são algumas das tecnologias utilizadas durante o programa Santander Bootc
 [Spring Web e Swagger](https:)  |
 [Spring Security](https:)
 
-### 📝 Lista de Atividades
-Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
-As atividades estão separadas por Módulos.
-<ul dir="auto">
-  <li>📝 Atividade I.<a href="https://"> Acessar </a></li>
-</ul>
 
-
-### 🚩 Lista de Projetos
-Esta área é reservada para os projetos desenvolvidos por mim no dia a dia, durante toda a jornada.
-<ul dir="auto">
-  <li> 🚩 Projeto I.<a href="https://"> Acessar </a></li>
-</ul>
 
 ### 🤝 Contribuindo
 Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
