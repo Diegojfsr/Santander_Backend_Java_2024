@@ -2,7 +2,7 @@
 ![](https://)
 
 ### Sejam bem-vindos!!! Esse é o meu repositorio de projetos e códigos no programa Santander Bootcamp 2024.
-Este repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp 2024.  
+Este repositório criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp 2024.  
 
 ## Módulo #1 - Princípios de Desenvolvimento de Softwere Colaborativo
 
