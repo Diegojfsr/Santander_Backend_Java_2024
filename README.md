@@ -2,7 +2,7 @@
 ![](https://)
 
 ### Sejam bem-vindos!!! Esse é o meu repositorio de projetos e códigos no programa Santander Bootcamp 2024.
-Este repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp 2024.  
+Este repositório foi criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp 2024.  
 O programa Santander Bootcamp 2024 tem como foco principal formar profissionais developers  nas tecnologias JAVA e Springboot. Além da oportunidade de aprofundar ainda mais o conhecimento em tecnologia, desenvolver o raciocínio lógico e ainda  construir projetos com entregáveis de código juntamente com os melhores experts do mercado.
 
 ### 🚦 Confira a grade completa:
