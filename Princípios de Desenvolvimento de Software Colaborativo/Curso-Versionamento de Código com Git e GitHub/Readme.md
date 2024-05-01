@@ -34,7 +34,7 @@ Neste curso iremos explorar o versionamento de código, e também iremos entende
 ☑️ [Dicas e Materiais de Apoio]()  
 ☑️ [Materiais de Apoio]()  
 
-5. Questionário 
+5. Questionário  
 ☑️ [Certifique seu conhecimento]() 
 
 
