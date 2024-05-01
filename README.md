@@ -19,9 +19,8 @@ O programa Santander Bootcamp 2024 tem como foco principal formar profissionais 
 ### 📝 Lista de Atividades
 Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
 As atividades estão separadas por Módulos.
-<ul dir="auto">
-  <li> Atividade I.<a href="https://"> Acessar </a></li>
-</ul>
+[Atividade I]()
+
 
 
 ### 🚩 Lista de Projetos
