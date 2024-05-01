@@ -8,8 +8,8 @@
 Com a linguagem Java, conseguimos desenvolver softwares para várias finalidades de negócio. Seja uma aplicação desktop, uma distribuição web, eletrônicos e dispositivos móveis.  
 Isso graças a distribuição dos recursos da linguagem, através de plataformas bem estruturadas.
 
-### 🚦 Confira a grade completa:
-1. Plataformas e configuração de ambiente
+### 🚦 Confira a grade completa:  
+1. Plataformas e configuração de ambiente  
 ☑️ [Introdução a IDEs]()  
 ☑️ [Configuração do Ambiente]()  
 
