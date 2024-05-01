@@ -1,53 +1,26 @@
 <!-- Imagem Bootcamp -->
 ![](https://)
-<!--
+
 ### Sejam bem-vindos!!! Esse é o meu repositorio de projetos e códigos no programa Santander Bootcamp 2024.
--->
-## Módulo #1 - Princípios de Desenvolvimento de Softwere Colaborativo
-### Curso de Introdução à Plataforma Java com o Intrutor Gleyson Sampaio
-Neste curso iremos explorar algumas funcionalidades essenciais para nosso engajamento com a linguagem.
+Este repositório criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp 2024.  
 
-### 🚦 Confira a grade completa:
-1. Introdução  
-☑️ [Introdução e objetivos]()  
-☑️ [O que é o Java]()  
+## Módulo #2 - Dominando a linguagem de programação Java
 
-2. Java e sua história  
-☑️[Java e sua história]()  
-☑️[Certifique seu conhecimento]()
-
-<!--
-### 📝 Lista de Atividades
-Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
-As atividades estão separadas por Módulos.
-<ul dir="auto">
-  <li> Atividade I.<a href="https://"> Acessar </a></li>
-</ul>
+### 🚦 Confira a grade completa do Módulo #2
+ 
+☑️ [Curso-Ambiente de Desenvolvimento Java]()  
+☑️ [Curso-Aprendendo a Sintaxe Java]()  
+☑️ [Desafio de projeto-Simulando Uma Conta Bancária Através Do Terminal/Console]()  
+☑️ [Curso-Introdução e Estruturas Condicionais com Java]()  
+☑️ [Curso-Estruturas de Repetição em Java]()  
+☑️ [Curso-Java e Tratamento de Exceções]()  
+☑️ [Curso-Debugging Java]()  
+☑️ [Desafio de projeto-Criando Um Pequeno Sistema Para Validação de Processo Seletivo]()  
+☑️ [Curso-Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional]()  
+☑️ [Desafio de código-Condições, Loops e Exceções na Prática com Java]()  
 
 
-### 🚩 Lista de Projetos
-Esta área é reservada para os projetos desenvolvidos por mim no dia a dia, durante toda a jornada.
-<ul dir="auto">
-  <li> Projeto I.<a href="https://"> Acessar </a></li>
-</ul>
 
-### 🛠 Tecnologias Utilizadas
-Essas são algumas das tecnologias utilizadas durante o programa Santander Bootcamp 2024.  
-[Git e Github](https:)  |
-[Java](https:)  |
-[POO com Java](https:)  |
-[Ides Java](https:)  |
-[Maven](https:)  |
-[Junit](https:)  |
-[Mockito](https:)  |
-[SQL](https:)  |
-[MongoDB](https:)  |
-[Api Rest](https:)  |
-[Spring Boot](https:)  |
-[Spring Web e Swagger](https:)  |
-[Spring Security](https:)
-
--->
 
 ### 🤝 Contribuindo
 Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
