@@ -14,8 +14,12 @@ Neste curso iremos explorar o versionamento de código, e também iremos entende
 ☑️ [O que é Git]()  
 ☑️ [O que é GitHub]()  
 
-
-
+2. Instalação, configuração e autenticação  
+☑️ [Instalando o Git no Windows]()  
+☑️ [Instalando o Git no Linux (Ubuntu)]()  
+☑️ [Configurando o Git]()  
+☑️ [Autenticando via Token]()  
+☑️ [Autenticando via Chave SSH]()  
 
 
 
