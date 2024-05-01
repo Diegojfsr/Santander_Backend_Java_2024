@@ -8,11 +8,11 @@
 Neste curso iremos explorar o versionamento de código, e também iremos entender a diferença entre Git e Github.
 
 ### 🚦 Confira a grade completa:
-- Visão geral do curso e ferramentas  
-☑️ [Introdução ao Curso]()
-☑️ [O que é Versionamento de Código]()
-☑️ [O que é Git]()
-☑️ [O que é GitHub]()
+1. Visão geral do curso e ferramentas  
+☑️ [Introdução ao Curso]()  
+☑️ [O que é Versionamento de Código]()  
+☑️ [O que é Git]()  
+☑️ [O que é GitHub]()  
 
 
 
