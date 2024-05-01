@@ -30,7 +30,9 @@ Neste curso iremos explorar o versionamento de código, e também iremos entende
 ☑️ [Trabalhando com Branches - Comandos Úteis no Dia a Dia]()  
 
 
-
+4. Dicas e materiais de apoio  
+☑️ [Dicas e Materiais de Apoio]()  
+☑️ [Materiais de Apoio]()  
 
 
 
