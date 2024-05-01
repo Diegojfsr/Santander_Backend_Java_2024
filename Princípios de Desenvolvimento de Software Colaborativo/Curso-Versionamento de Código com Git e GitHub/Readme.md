@@ -21,6 +21,18 @@ Neste curso iremos explorar o versionamento de código, e também iremos entende
 ☑️ [Autenticando via Token]()  
 ☑️ [Autenticando via Chave SSH]()  
 
+3. Primeiros passos com o Git e Github  
+☑️ [Criando e Clonando Repositórios]()  
+☑️ [Salvando Alterações no Repositório Local]()  
+☑️ [Desfazendo Alterações no Repositório Local]()  
+☑️ [Enviando e Baixando Alterações com o Repositório Remoto]()  
+☑️ [Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos]()  
+☑️ [Trabalhando com Branches - Comandos Úteis no Dia a Dia]()  
+
+
+
+
+
 
 
 
