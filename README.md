@@ -7,8 +7,9 @@ O programa Santander Bootcamp 2024 tem como foco principal formar profissionais 
 
 
 ### 🚦 Confira a grade completa:
-☑️ [Princípios de Desenvolvimento de Software Colaborativo.](https://github.com/Diegojfsr/Santander_Backend_Java_2024/tree/main/Princ%C3%ADpios%20de%20Desenvolvimento%20de%20Software%20Colaborativo)  
-☑️ [Dominando a Linguagem de Programação Java.]()  
+☑️ [Princípios de Desenvolvimento de Software Colaborativo.]
+(https://github.com/Diegojfsr/Santander_Backend_Java_2024/tree/main/Princ%C3%ADpios%20de%20Desenvolvimento%20de%20Software%20Colaborativo)  
+☑️ [Dominando a Linguagem de Programação Java.](https://github.com/Diegojfsr/Santander_Backend_Java_2024/tree/main/Dominando%20a%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20Java/Ambiente%20de%20desenvolvimento%20Java)  
 ☑️ [Programação Orientada a Objetos com Java.]()  
 ☑️ [Testes e Gerenciamento de Dependências em Projetos Java.]()  
 ☑️ [Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end.]()  
