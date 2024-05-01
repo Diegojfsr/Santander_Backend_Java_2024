@@ -16,6 +16,16 @@ Este repositório criado para documentar todo o meu passo a passo, projetos e co
 <li>  <a href="https://"> Mentoria(Live)-Aula Inaugural - Santander Bootcamp 2024 com Leonardo Medina. </a></li>
 </ul>
 
+[Curso-Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!]()  
+[Curso-Introdução à Plataforma Java.](https://github.com/Diegojfsr/Santander_Backend_Java_2024/tree/main/Princ%C3%ADpios%20de%20Desenvolvimento%20de%20Software%20Colaborativo/Curso-Introdu%C3%A7%C3%A3o%20%C3%A0%20Plataforma%20Java)  
+[Curso-Versionamento de Código com Git e GitHub.](https://github.com/Diegojfsr/Santander_Backend_Java_2024/blob/main/Princ%C3%ADpios%20de%20Desenvolvimento%20de%20Software%20Colaborativo/Curso-Versionamento%20de%20C%C3%B3digo%20com%20Git%20e%20GitHub/Readme.md)  
+[Curso-Desafios de Projetos: Crie Um Portfólio Vencedor.]()  
+[Desafio de projeto-Contribuindo em um Projeto Open Source no GitHub.]()  
+[Mentoria(Live)-Aula Inaugural - Santander Bootcamp 2024 com Leonardo Medina.]()
+
+
+
+
 <!--
 ### 📝 Lista de Atividades
 Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
