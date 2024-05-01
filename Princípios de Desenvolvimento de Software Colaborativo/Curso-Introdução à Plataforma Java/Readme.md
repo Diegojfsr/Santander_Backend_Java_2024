@@ -8,9 +8,12 @@
 Neste curso iremos explorar algumas funcionalidades essenciais para nosso engajamento com a linguagem.
 
 ### 🚦 Confira a grade completa:
-☑️ [Introdução e objetivos 02:40]()  
-☑️ [O que é o Java 11:15]()  
-☑️[Java e sua história 07:28]()  
+1. Introdução  
+☑️ [Introdução e objetivos]()  
+☑️ [O que é o Java]()  
+
+2. Java e sua história  
+☑️[Java e sua história]()  
 ☑️[Certifique seu conhecimento]()
 
 <!--
