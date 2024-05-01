@@ -8,13 +8,10 @@
 Neste curso iremos explorar algumas funcionalidades essenciais para nosso engajamento com a linguagem.
 
 ### 🚦 Confira a grade completa:
-<ul dir="auto">
-  <li>  <a href="https://"> Introdução e objetivos 02:40 </a></li>
-  <li>  <a href="https://"> O que é o Java 11:15 </a></li>
-  <li>  <a href="https://"> Java e sua história 07:28 </a></li>
-  <li>  <a href="https://"> Certifique seu conhecimento </a></li>
-
-</ul>
+☑️ [Introdução e objetivos 02:40]()  
+☑️ [O que é o Java 11:15]()  
+☑️[Java e sua história 07:28]()  
+☑️[Certifique seu conhecimento]()
 
 <!--
 ### 📝 Lista de Atividades
