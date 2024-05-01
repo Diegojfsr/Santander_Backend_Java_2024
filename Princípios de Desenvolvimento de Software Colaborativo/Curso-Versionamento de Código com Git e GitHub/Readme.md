@@ -4,7 +4,7 @@
 ### Sejam bem-vindos!!! Esse é o meu repositorio de projetos e códigos no programa Santander Bootcamp 2024.
 -->
 ## Módulo #1 - Princípios de Desenvolvimento de Softwere Colaborativo
-### Versionamento de Código com Git e GitHub com a Intrutora Elidiana Andrade
+### Curso Versionamento de Código com Git e GitHub com a Intrutora Elidiana Andrade
 Neste curso iremos explorar o versionamento de código, e também iremos entender a diferença entre Git e Github.
 
 ### 🚦 Confira a grade completa:
