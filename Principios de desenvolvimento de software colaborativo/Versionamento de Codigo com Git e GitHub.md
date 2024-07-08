@@ -1,3 +1,4 @@
+
 1 - Visao geral do curso e ferramentas
 Introdução ao Curso
 O que é Versionamento de Código
