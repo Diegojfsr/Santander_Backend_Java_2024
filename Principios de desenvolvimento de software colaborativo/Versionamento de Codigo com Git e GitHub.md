@@ -26,3 +26,5 @@ Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
 
 5 - Questionario
 - Certifique seu conhecimento
+
+Instrutora: Elidiana Andrade
