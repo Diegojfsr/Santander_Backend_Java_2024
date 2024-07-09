@@ -10,3 +10,4 @@
 - Integrando o VSCode com o Github
 - Certifique seu conhecimento
 
+Intrutor: Gleyson Sampaio

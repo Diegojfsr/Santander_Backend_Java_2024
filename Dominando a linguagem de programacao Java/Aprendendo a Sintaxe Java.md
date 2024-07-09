@@ -51,3 +51,5 @@
 - Terminal e Argumentos - 5
 - Materiais de apoio
 - Materiais de apoio
+
+Intrutor: Gleyson Sampaio
