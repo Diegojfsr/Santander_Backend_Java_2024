@@ -16,7 +16,7 @@ O programa Santander Bootcamp 2024 tem como foco principal formar profissionais 
 ☑️ [Ganhando Produtividade com Spring Framework e Java.]()  
 ☑️ [Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades.]()
 
-
+<!--
 ### 📝 Lista de Atividades
 Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
 As atividades estão separadas por Módulos.  
@@ -29,6 +29,8 @@ As atividades estão separadas por Módulos.
 Esta área é reservada para os projetos desenvolvidos por mim no dia a dia, durante toda a jornada.  
 
 [Projeto I]()
+
+-->
 
 ### 🛠 Tecnologias Utilizadas
 Essas são algumas das tecnologias utilizadas durante o programa Santander Bootcamp 2024.  
